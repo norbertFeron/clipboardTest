@@ -1,0 +1,22 @@
+{
+  "name": "csvevaluationclipboardtest",
+  "version": "1.0.0",
+  "description": "This script read a csv or tsv file and evaluate the mathematical expression without using eval() function.",
+  "main": "evaluate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norbertFeron/clipboardTest.git"
+  },
+  "author": "nferon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norbertFeron/clipboardTest/issues"
+  },
+  "homepage": "https://github.com/norbertFeron/clipboardTest#readme",
+  "dependencies": {
+    "csv-parse": "^4.12.0"
+  }
+}
